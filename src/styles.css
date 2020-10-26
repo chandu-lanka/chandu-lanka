@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.MessageContainer {
+  background: lightgray;
+  align-items: center;
+  border-radius: 25px;
+  width: 300px;
+}
