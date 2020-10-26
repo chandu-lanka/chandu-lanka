@@ -1,4 +1,10 @@
-### WHat is Going On boys
+### Followed Clever Programmer's facebook messenger clone tut
+
+### didn't really compete it but this is the half way point
+
+### check out my channel : https://codingwithchandu.netlify.app
+
+### don't even have a proper domain but whatevs
 
 <!--
 **chandu-lanka/chandu-lanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
