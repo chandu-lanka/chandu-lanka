@@ -7,5 +7,4 @@ gamedev/webdev/robotics
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-23272A?style=flat&logo=typescript">
 </p>
-
-<img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=chandu-lanka" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu-lanka&layout=compact" />
