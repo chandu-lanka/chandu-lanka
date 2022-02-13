@@ -6,6 +6,7 @@ gamedev/webdev/robotics
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-23272A?style=flat&logo=lua">
   <img alt="Csharp" src="https://img.shields.io/badge/-CSharp-23272A?style=flat&logo=csharp">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-23272A?style=flat&logo=rust">
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandu-lanka&show_icons=true&count_private=true&include_all_commits=true" />
