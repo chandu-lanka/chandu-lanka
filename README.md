@@ -5,7 +5,7 @@ gamedev/webdev/robotics
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-23272A?style=flat&logo=lua">
-  <img alt="Csharp" src="https://img.shields.io/badge/-CSharp-23272A?style=flat&logo=csharp">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-23272A?style=flat&logo=golang">
 </p>
 
