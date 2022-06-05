@@ -7,7 +7,7 @@ neovim user
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
-  <img alt="Go" src="https://img.shields.io/badge/-Golang-23272A?style=flat&logo=golang">
+  <img alt="Go" src="https://img.shields.io/badge/-Golang-23272A?style=flat&logo=go">
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-23272A?style=flat&logo=solidity">
 </p>
 
