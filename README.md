@@ -5,7 +5,7 @@ hobbiest game dev
 neovim user
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/--23272A?style=flat&logo=c++">
+  <img alt="C++" src="https://img.shields.io/badge/--23272A?style=flat&logo=cplusplus">
   <img alt="C" src="https://img.shields.io/badge/--23272A?style=flat&logo=c">
   <img alt="Rust" src="https://img.shields.io/badge/--23272A?style=flat&logo=rust">
 </p>
